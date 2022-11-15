@@ -5,11 +5,9 @@
 }
 html{
     scroll-behavior: smooth;
-    padding: 10px 50px 20px 50px;
+    padding: 0px 50px 20px 50px;
 }
-.wrapper{
 
-}
 .header-nav, .header-nav ul, .header-name, section, footer, footer ul{
     display: flex;
     flex-direction: row;
@@ -24,12 +22,22 @@ ul li{
 .header-nav, footer, .header-name{
     justify-content: space-between;
 }
-.description-more-shots, section, .wrapper, footer{
-    margin-top: 100px;
+.header-nav{
+    margin-top: 93px;
 }
 .header-name{
-    margin-top: 50px;
+    margin-top: 128px;
 }
+.arrow-down{
+    width: 33px;
+    height: 39px;
+    background-image: url(./src/arrow_down.png);
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin-top: 128px;
+}
+
+
 section{
     border-bottom: 1px solid black;
     padding-bottom: 20px;
