@@ -5,4 +5,39 @@
 }
 html{
     scroll-behavior: smooth;
+    padding: 10px 50px 20px 50px;
+}
+.wrapper{
+
+}
+.header-nav, .header-nav ul, .header-name, section, footer, footer ul{
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    list-style: none;
+}
+ul li{
+    margin-left: 20px;
+}
+.header-nav, footer, .header-name{
+    justify-content: space-between;
+}
+.description-more-shots, section, .wrapper, footer{
+    margin-top: 100px;
+}
+.header-name{
+    margin-top: 50px;
+}
+section{
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    justify-content: space-between;
+}
+
+.img{
+    width: 300px;
+    height: 100px;
+    background-color: gray;
 }
