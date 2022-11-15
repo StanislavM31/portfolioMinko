@@ -41,7 +41,6 @@ section{
     border-bottom: 1px solid black;
     justify-content: space-between;
     padding: 25px 0 0 0;
-    border: 1px solid red;
 }
  .portfolio{
     padding-top: 0;
@@ -68,11 +67,19 @@ h2{
 
 }
 a{
-    text-decoration: none;
-    color: black
+    color: black;
+    cursor: pointer;
+    font-weight:bold;
+
 }
+nav a, footer a{
+    text-decoration: none;
+
+}
+
 a:hover{
-    color:blueviolet
+    color:rgb(95, 2, 182)
+
 }
 footer{
     margin: 126px 0 116px 0;
