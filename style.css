@@ -6,6 +6,7 @@
 html{
     scroll-behavior: smooth;
     padding: 0px 50px 20px 50px;
+    font-family: 'DM Sans', sans-serif;
 }
 
 .header-nav, .header-nav ul, .header-name, section, footer, footer ul{
