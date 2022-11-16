@@ -37,6 +37,13 @@ ul li{
     background-size:contain;
     margin-top: 128px;
 }
+.wrapper-arrow-down{
+
+}
+.arrow-down:hover{
+    scale: 110%;
+    border-radius: 50%;
+}
 
 section{
     border-bottom: 1px solid black;
