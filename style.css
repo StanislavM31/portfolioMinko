@@ -29,7 +29,7 @@ ul li{
 .header-name{
     margin-top: 128px;
 }
-.header-name p{
+.header-name h2{
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: grey;
@@ -42,12 +42,9 @@ ul li{
     background-size:contain;
     margin-top: 128px;
 }
-.wrapper-arrow-down{
 
-}
 .arrow-down:hover{
     scale: 110%;
-    border-radius: 50%;
 }
 
 section{
