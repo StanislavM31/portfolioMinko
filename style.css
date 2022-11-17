@@ -5,7 +5,7 @@
 }
 html{
     scroll-behavior: smooth;
-    padding: 0px 50px 20px 50px;
+    padding: 0px 160px 20px 160px;
     font-family: 'DM Sans', sans-serif;
 }
 
@@ -28,6 +28,11 @@ ul li{
 }
 .header-name{
     margin-top: 128px;
+}
+.header-name p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: grey;
 }
 .arrow-down{
     width: 33px;
@@ -63,6 +68,9 @@ h2{
 
 .tehno{
     margin: 110px 0 0 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: grey;
 }
  .description p:last-child{
     margin: 167px 0 20px 0;
@@ -91,4 +99,7 @@ a:hover{
 }
 footer{
     margin: 126px 0 116px 0;
+}
+footer div span {
+    color: blue;
 }
