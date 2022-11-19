@@ -1,0 +1,25 @@
+.wrapper-skills{
+    display: flex;
+    flex-direction: column;
+}
+.skills-photo{
+    width: 405px;
+    height: 457px;
+    background-color: gray;
+    margin-left: 157px;
+}
+footer{
+    display: flex;
+    flex-direction: column;
+}
+.feedback{
+    display: flex;
+    justify-content: space-between;
+}
+.contacts{
+    display: flex;
+    margin-top: 126px;
+}
+.header-name h2{
+    padding: 25px 0 25px 0;
+}
