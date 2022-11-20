@@ -2,6 +2,20 @@
     display: flex;
     flex-direction: column;
 }
+.hard, .soft{
+    display: flex;
+}
+
+.skills h2{
+    margin: 0 0 110px 0;
+    white-space: nowrap;
+}
+.wrapper-skills{
+    padding: 68px 0 0 0;
+}
+.skills div > p{
+    margin: 0 470px 0 63px;
+}
 .skills-photo{
     width: 405px;
     height: 457px;
@@ -15,6 +29,12 @@ footer{
 .feedback{
     display: flex;
     justify-content: space-between;
+}
+.feedback p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    white-space: nowrap;
 }
 .contacts{
     display: flex;
