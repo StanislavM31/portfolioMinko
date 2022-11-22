@@ -22,8 +22,9 @@ form p{
     height: 40px;
     width: 675px;
     margin: 0 0 20px 0;
-
+    font-size: 25px;
 }
+
 .btn{
     width: 162px;
     height: 42px;
