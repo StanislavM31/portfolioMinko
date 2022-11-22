@@ -1,0 +1,29 @@
+.form-contact{
+    margin-top: 109px;
+}
+
+.form-contact p  {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: grey;
+
+}
+
+form{
+    margin: 32px 0 0 0;
+}
+form p{
+    margin: 0 0 0 47px ;
+}
+.form-input{
+    display: flex;
+    align-items: center;
+}
+.form-input input{
+    height: 40px;
+    width: 675px;
+    margin: 0 0 20px 0;
+
+}
+
+
