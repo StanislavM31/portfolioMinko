@@ -25,5 +25,11 @@ form p{
     margin: 0 0 20px 0;
 
 }
-
+.btn{
+    width: 162px;
+    height: 42px;
+    background-color: black;
+    display: flex;
+    border-radius: 3px;
+}
 
